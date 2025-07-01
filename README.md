@@ -4,9 +4,9 @@ Esse é um pequeno projeto para treinar a lógica de programação
 
 # Tecnologias usadas
 
-Visual Studio Code
-Javascript
-Node.js
+- Visual Studio Code
+- Javascript
+- Node.js
 
 # Autores
 
